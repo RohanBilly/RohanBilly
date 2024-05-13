@@ -1,8 +1,12 @@
 <h1 align="center">Hello, I'm Billy</h1>
 <h3 align="center">Aspiring game developer and UWE Bristol Games Technology graduate.</h3>
+
+<p align="center">
+🔷 I am a confident Unity developer and python/C++ progammer. I've been making games these languages since I was 16 years old. 🔷
+</p>
 <br>
 <p align="center">
-🔶  I’m currently working on <strong>Mini Mania </strong>: https://github.com/AtlasAlexander/Pixel-Playgroud-Repo 🔶
+🔸  I’m currently working on <strong>Mini Mania </strong>: https://github.com/AtlasAlexander/Pixel-Playgroud-Repo 🔸
 </p>
 <p align="center">
 🔹  I’m currently learning  <strong>Unreal Engine</strong> 🔹
