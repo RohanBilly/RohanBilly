@@ -2,16 +2,16 @@
 <h3 align="center">Aspiring game developer and UWE University Games Technology graduate.</h3>
 
 <p align="center">
-🔶  I’m currently working on <strong>Mini Mania </strong>: https://github.com/AtlasAlexander/Pixel-Playgroud-Repo 🔶
+◼️  I’m currently working on <strong>Mini Mania </strong>: https://github.com/AtlasAlexander/Pixel-Playgroud-Repo ◼️
 </p>
 <p align="center">
-🔶  I’m currently learning  <strong>Unreal Engine</strong> 🔶
+◼️  I’m currently learning  <strong>Unreal Engine</strong> ◼️
 </p>
 <p align="center">
-🔶  I’m looking to collaborate on <strong>game dev projects</strong> 🔶
+◼️  I’m looking to collaborate on <strong>game dev projects</strong> ◼️
 </p>
 <p align="center">
-🔶  Reach me at <strong>rohanvansanden@live.co.uk</strong> 🔶
+◼️  Reach me at <strong>rohanvansanden@live.co.uk</strong> ◼️
 </p>
 
 
