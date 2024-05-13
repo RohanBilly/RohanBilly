@@ -1,16 +1,17 @@
 <h1 align="center">Hello, I'm Billy</h1>
 <h3 align="center">Aspiring game developer and UWE University Games Technology graduate.</h3>
+
 <p align="center">
-🔶    I’m currently working on [Mini Mania](https://github.com/AtlasAlexander/Pixel-Playgroud-Repo)    🔶
+🔶  I’m currently working on <strong>Mini Mania </strong>: https://github.com/AtlasAlexander/Pixel-Playgroud-Repo 🔶
 </p>
 <p align="center">
-🔶    I’m currently learning **Unreal Engine**    🔶
+🔶  I’m currently learning  <strong>Unreal Engine</strong> 🔶
 </p>
 <p align="center">
-🔶    I’m looking to collaborate on game **dev projects**    🔶
+🔶  I’m looking to collaborate on <strong>game dev projects</strong> 🔶
 </p>
 <p align="center">
-🔶    How to reach me **rohanvansanden@live.co.uk**    🔶
+🔶  Reach me at <strong>rohanvansanden@live.co.uk</strong> 🔶
 </p>
 
 
