@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Billy</h1>
-<h3 align="center">Aspiring game developer and UWE Bristol Games Technology graduate. I am a confident Unity developer and python/C++ progammer, I've been making games these languages since I was 16 years old.</h3>
+<h3 align="center">Aspiring game developer and UWE Bristol Games Technology graduate. I am a confident Unity developer and python/C++ progammer, I've been making games with these languages since I was 16 years old.</h3>
 
 <br>
 <p align="center">
